@@ -19,16 +19,16 @@ skill:
   enable: true
   item:
     - title: Golang
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      logo: logos/golang.svg
       description: Details coming soon, contact me if you want to know more
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+    - logo: logos/travix.svg
       title: System Engineer
       company: Travix
       duration: March 2018 - Present
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+    - logo: logos/neoway.png
       title: R&D Developer
       company: Neoway
       duration: May 2011 - February 2018
@@ -51,7 +51,7 @@ education:
     - title: BSc Information Systems
       year: 2017
       academy: UFSC - Federal University of Santa Catarina
-      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+      image: logos/ufsc.svg
 leadership:
   enable: false
   # item:
