@@ -35,16 +35,16 @@ experience:
 hackathons:
   enable: false
   # item:
-  #   - title: Hack Cambridge 2019
-  #     description: Climate change simulator
-  #     image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+  #   - title: Travix Hackathon
+  #     description: Custom CI/CD
+  #     image: https://res.cloudinary.com/vitorarins/image.svg
   #     url: none
 certifications:
   enable: false
   # item:
-    # - title: Microsoft Azure Fundamentals
-    #   image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
-    #   url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+    # - title: Mongo DB
+    #   image: https://res.cloudinary.com/vitorarins/image.svg
+    #   url: https://www.youracclaim.com/
 education:
   enable: true
   item:
@@ -55,11 +55,11 @@ education:
 leadership:
   enable: false
   # item:
-  #   - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
-  #     title: Young Leader
-  #     company: The Scout Association
-  #     duration: September 2014 - July 2018
+  #   - logo: https://res.cloudinary.com/vitorarins/image.svg
+  #     title: Not a leader
+  #     company: No company
+  #     duration: 1990 - Present
 portfolio:
   filter:
-    - label: Web Dev
-      value: web-dev
+    - label: Machine learning
+      value: machine-learning
