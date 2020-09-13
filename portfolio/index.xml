@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Vitor Arins</title>
+    <link>https://vitorarins.com/portfolio/</link>
+    <description>Recent content in Portfolio on Vitor Arins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 08 Sep 2020 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://vitorarins.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CAPTCHA breaker</title>
+      <link>https://vitorarins.com/portfolio/captcha-breaker/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vitorarins.com/portfolio/captcha-breaker/</guid>
+      <description>This was the project I made for my final work at college.
+CAPTCHA breaker This is just an experiment made for a school project. It works only for a specific kind of CAPTCHA, which you can find on this website: http://sistemas3.sef.sc.gov.br/sintegra/consulta_empresa_pesquisa.aspx
+It&amp;rsquo;s missing some files:
+ the model: models/sintegra_sc_model.ckpt the images: images/  Model To get a model that recognizes CAPTCHAs, you will need to train a Neural Network using the captcha_train.</description>
+    </item>
+    
+  </channel>
+</rss>
