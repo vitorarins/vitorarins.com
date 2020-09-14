@@ -82,7 +82,7 @@ author = "Vitor Arins"
   [params.footer]
   email = "vitorarins@gmail.com"
   address = "Amsterdam, NL"
-  googlemaps = "https://goo.gl/maps/JqFA13nxK8BNuxEZ8"
+  googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d155959.1524298815!2d4.763877000772082!3d52.35479253601457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c63fb5949a7755%3A0x6600fd4cb7c0af8d!2sAmsterdam!5e0!3m2!1sen!2snl!4v1600075831351!5m2!1sen!2snl"
 
 [markup]
   [markup.highlight]
