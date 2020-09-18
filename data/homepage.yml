@@ -43,7 +43,7 @@ certifications:
   enable: true
   item:
     - title: Android
-      image: https://res.cloudinary.com/vitorarins/image/upload/v1600371002/android-logo.jpg
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600470520/android-logo.png
       url: https://coursera.org/share/94bf1acfa598cf9fcca51de11cd984e9
     - title: Go
       image: https://res.cloudinary.com/vitorarins/image/upload/v1600466925/golang-logo.png
