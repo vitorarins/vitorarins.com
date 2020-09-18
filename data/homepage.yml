@@ -46,7 +46,7 @@ certifications:
       image: https://res.cloudinary.com/vitorarins/image/upload/v1600371002/android-logo.jpg
       url: https://coursera.org/share/94bf1acfa598cf9fcca51de11cd984e9
     - title: Go
-      image: logos/golang.svg
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466925/golang-logo.png
       url: https://coursera.org/share/e74b1928be0688e8a580543e52817672
     - title: Intro to CS
       image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
