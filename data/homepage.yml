@@ -40,11 +40,32 @@ hackathons:
   #     image: https://res.cloudinary.com/vitorarins/image.svg
   #     url: none
 certifications:
-  enable: false
-  # item:
-    # - title: Mongo DB
-    #   image: https://res.cloudinary.com/vitorarins/image.svg
-    #   url: https://www.youracclaim.com/
+  enable: true
+  item:
+    - title: Android
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600371002/android-logo.jpg
+      url: https://coursera.org/share/94bf1acfa598cf9fcca51de11cd984e9
+    - title: Go
+      image: logos/golang.svg
+      url: https://coursera.org/share/e74b1928be0688e8a580543e52817672
+    - title: Intro to CS
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
+      url: https://confirm.udacity.com/CJ5ESGXM
+    - title: Programming Languages
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
+      url: https://confirm.udacity.com/UJCGPEY6
+    - title: Design of Computer Programs
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
+      url: https://confirm.udacity.com/CMX4AAAN
+    - title: Web Development
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
+      url: https://confirm.udacity.com/KDTZGAGL
+    - title: HTML5 Game
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466594/udacity-logo.png
+      url: https://confirm.udacity.com/VDRG9JMZ
+    - title: MongoDB
+      image: https://res.cloudinary.com/vitorarins/image/upload/v1600466665/mongodb-logo.png
+      url: http://university.mongodb.com/course_completion/514d26f6d1f347758516bb43f9ca94e8
 education:
   enable: true
   item:
@@ -56,7 +77,7 @@ leadership:
   enable: false
   # item:
   #   - logo: https://res.cloudinary.com/vitorarins/image.svg
-  #     title: Not a leader
+  #     title: Leader
   #     company: No company
   #     duration: 1990 - Present
 portfolio:
