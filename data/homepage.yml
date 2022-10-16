@@ -11,7 +11,7 @@ social:
   gmail: vitorarins
 about:
   enable: true
-  content: System Engineer @ Travix
+  content: Sr. Software Engineer @ Sensys Gatso
   button:
     btnText: Find out more
     URL: "/about"
@@ -24,21 +24,20 @@ skill:
 experience:
   enable: true
   item:
+    - logo: logos/sgg.jpg
+      title: Sr. Software Engineer
+      company: SGG
+      duration: May 2021 - Present
     - logo: logos/travix.svg
       title: System Engineer
       company: Travix
-      duration: March 2018 - Present
+      duration: March 2018 - April 2021
     - logo: logos/neoway.png
       title: R&D Developer
       company: Neoway
       duration: May 2011 - February 2018
 hackathons:
   enable: false
-  # item:
-  #   - title: Travix Hackathon
-  #     description: Custom CI/CD
-  #     image: https://res.cloudinary.com/vitorarins/image.svg
-  #     url: none
 certifications:
   enable: true
   item:
