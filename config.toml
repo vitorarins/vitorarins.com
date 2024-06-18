@@ -3,7 +3,10 @@ baseURL = "https://vitorarins.com"
 languageCode = "en-gb"
 title = "Vitor Arins"
 theme = "hugo-developer-portfolio"
-googleAnalytics = "G-P6HV4WTX4P"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-P6HV4WTX4P'
 
 # Plugins
 [params.plugins]
