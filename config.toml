@@ -3,7 +3,7 @@ baseURL = "https://vitorarins.com"
 languageCode = "en-gb"
 title = "Vitor Arins"
 theme = "hugo-developer-portfolio"
-googleAnalytics = "UA-177939196-1"
+googleAnalytics = "G-P6HV4WTX4P"
 
 # Plugins
 [params.plugins]
@@ -71,7 +71,7 @@ gzip = true
 [params]
 home = "Home"
 # Meta data
-description = "The website of Vitor Arins, System Engineer @ Travix"
+description = "The website of Vitor Arins, Software Engineer @ Sensys Gatso"
 author = "Vitor Arins"
 
 
